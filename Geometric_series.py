@@ -23,8 +23,9 @@ try:
         else:
             print("This is not a geometric series!!!")
 
-        if ans == "finite":
-            print("a")
+        if ans == "finite" and x!= 1:
+            print("The sum of this finite geometric series is: ", ((value_1)*(1-x**3))/(1-x))
+
 
         if ans == "infinite":
             print("b")
