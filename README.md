@@ -1,8 +1,3 @@
 # Check_Geometric_Series
 
-Geometric Series is a series with the form... (will get from the book later) 
-
-
-
-
-Citation: https://pynative.com/python-check-user-input-is-number-or-string/
+"In mathematics, a geometric series is a series with a constant ratio between successive terms." (Wikipedia)
